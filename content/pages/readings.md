@@ -3,8 +3,6 @@ content_type: page
 description: This section contains information about additional reading materials
   regarding the course.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -17,11 +15,11 @@ video_metadata:
 ---
 This section contains the course's reading assignments, which refer to the required textbook:
 
-Agarwal, Anant, and Jeffrey H. Lang. [*Foundations of Analog and Digital Electronic Circuits*](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20%282005%29%20Foundations%20of%20Analog%20and%20Digital.pdf). San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.
+Agarwal, Anant, and Jeffrey H. Lang. {{% resource_link "6fb5b2aa-d0e8-4e78-8a16-1c30cd6d9833" "*Foundations of Analog and Digital Electronic Circuits*" %}}. San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.
 
-[View e-book version](http://store.elsevier.com/Foundations-of-Analog-and-Digital-Electronic-Circuits/Anant-Agarwal/isbn-9781558607354/)
+{{% resource_link "250ffe28-d9a0-4fa4-a178-ca2d6839e144" "View e-book version" %}}
 
-[Elsevier companion site: supplementary sections and examples](http://www.elsevierdirect.com/companion.jsp?ISBN=9781558607354)
+{{% resource_link "18911bf6-b06f-478b-b155-626bbb391cd6" "Elsevier companion site: supplementary sections and examples" %}}
 
 Readings with an asterisk (\*) provide key intuitive analyses.
 
