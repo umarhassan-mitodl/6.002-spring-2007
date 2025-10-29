@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains link to WebSim site.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -17,6 +15,6 @@ video_metadata:
 WebSim
 ------
 
-Check out [WebSim](http://euryale.csail.mit.edu/websim), a new resource for 6.002. WebSim is a web-based laboratory that allows you to experiment with various circuits seen in 6.002. For example, when experimenting with an RLC circuit in WebSim, you can set the resistor, capacitor and inductor values, apply one of many inputs (e.g., step, square wave or a rock music sample), and view or listen to the corresponding output.
+Check out {{% resource_link "82c125f6-6b82-4d04-a41c-d5080c663984" "WebSim" %}}, a new resource for 6.002. WebSim is a web-based laboratory that allows you to experiment with various circuits seen in 6.002. For example, when experimenting with an RLC circuit in WebSim, you can set the resistor, capacitor and inductor values, apply one of many inputs (e.g., step, square wave or a rock music sample), and view or listen to the corresponding output.
 
 There are no required exercises on WebSim. It is provided as a resource to help build intuition and to have fun.

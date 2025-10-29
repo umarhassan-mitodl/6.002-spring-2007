@@ -2,8 +2,6 @@
 content_type: page
 description: The syllabus contains an overview and list of materials for the course,
   grading criteria, learning outcomes, prerequisites, recitations, tutorials and exams.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -75,7 +73,7 @@ Textbook
 
 The course textbook is:
 
-Agarwal, Anant, and Jeffrey H. Lang. [_Foundations of Analog and Digital Electronic Circuits_](http://www.elsevierdirect.com/product.jsp?isbn=9781558607354). San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.
+Agarwal, Anant, and Jeffrey H. Lang. {{% resource_link "9a5796d6-7292-4ae3-b8b5-9aafd02806d9" "_Foundations of Analog and Digital Electronic Circuits_" %}}. San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.
 
 Homework
 --------
